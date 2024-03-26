@@ -19,3 +19,8 @@ HTML headings are defined with the <h1> to <h6> tags.
 
 HTML links are defined with the <a> tag. The link's destination is specified in the href attribute. 
 
+Tag	Description
+<p>	    Defines a paragraph
+<hr>	Defines a thematic change in the content
+<br>	Inserts a single line break
+<pre>	Defines pre-formatted text

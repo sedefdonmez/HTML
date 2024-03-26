@@ -1,0 +1,18 @@
+/* table, th,td{
+    border: 1px solid red;
+
+} */
+/* table,th,td{
+    border: 1px solid pink;
+    border-collapse: collapse;
+    border-radius: 10px;
+} */
+th,td{
+    background-color: powderblue;
+    border: 1px;
+    border-radius: 10px;
+    border-color: aqua;
+}
+tr:nth-child(even){
+    background-color: blueviolet;
+}

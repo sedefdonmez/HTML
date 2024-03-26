@@ -1,0 +1,15 @@
+body{
+    background-color:lightcyan;
+}
+p{
+    font-size: 500%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border: 2px solid pink;
+    margin: 50px;
+
+}
+h1{
+    background-color: purple;
+    border: 1px dashed blue;
+    padding: 55px;
+}
